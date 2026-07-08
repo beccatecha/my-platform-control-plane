@@ -1,0 +1,5 @@
+
+# Custom Platform Exclusions
+*.kubeconfig
+.env
+kubeconfig
