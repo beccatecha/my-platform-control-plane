@@ -57,3 +57,10 @@ my-platform-control-plane/
 
 *(Documentation to be populated continuously alongside DevSecOps curriculum implementation)*
 
+---
+
+## 📚 Upstream References & Continuing Education
+To bridge enterprise infrastructure hardening with cloud-native telemetry, configurations and architectural designs within this control plane are developed in alignment with:
+* **Infrastructure Layer:** Guided by the [TechWorld with Nana DevSecOps Enterprise Framework](https://techworld-with-nana.com).
+* **Telemetry Layer:** Developed using design patterns adapted from Alex Boten's [*Cloud-Native Observability with OpenTelemetry*](https://github.com) repository, specifically focusing on Chapter 3 (Auto-Instrumentation) and Chapter 10 (Production Deployments).
+
